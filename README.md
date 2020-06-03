@@ -9,3 +9,7 @@ Before running the pipeline, please follow the instructions of piPipes to instal
 Here is an example to call the pipeline, using mouse mm10 genome and 8 threads:
 
 piPipes_with_rfp ribo -i Data.fastq.gz -g mm10 -c 8
+
+This pipeline has beed used in our recent publication:
+
+Sun, Y.H., Zhu, J., Xie, L.H. et al. Ribosomes guide pachytene piRNA formation on long intergenic piRNA precursors. Nat Cell Biol 22, 200–212 (2020). https://doi.org/10.1038/s41556-019-0457-4
